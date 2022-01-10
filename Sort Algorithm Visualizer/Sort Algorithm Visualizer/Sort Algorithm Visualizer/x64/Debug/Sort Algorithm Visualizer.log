@@ -1,0 +1,13 @@
+﻿  Source.cpp
+D:\Code\C++\Sort Algorithm Visualizer\Sort Algorithm Visualizer\Sort Algorithm Visualizer\Source.cpp(16,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Code\C++\Sort Algorithm Visualizer\Sort Algorithm Visualizer\Sort Algorithm Visualizer\Source.cpp(72,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Code\C++\Sort Algorithm Visualizer\Sort Algorithm Visualizer\Sort Algorithm Visualizer\Source.cpp(74,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Sort Algorithm Visualizer.vcxproj -> D:\Code\C++\Sort Algorithm Visualizer\Sort Algorithm Visualizer\x64\Debug\Sort Algorithm Visualizer.exe

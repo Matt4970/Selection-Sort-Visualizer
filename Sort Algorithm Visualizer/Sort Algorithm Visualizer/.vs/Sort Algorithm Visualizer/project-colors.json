@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aaa340df-179f-4790-9bcf-7857a83cc815": {
+      "ProjectGuid": "aaa340df-179f-4790-9bcf-7857a83cc815",
+      "DisplayName": "Sort Algorithm Visualizer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
